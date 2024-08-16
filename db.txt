@@ -1,0 +1,154 @@
+
+{
+  "NombreVendedor": "SUPER INTER SALOMI",
+  "FechaFactura": "2024-06-27",
+  "Subtotal": "18.968",
+  "Total": "13.739",
+  "NombreProveedor": "SUPER INTER SALOMI",
+  "NumeroFactura": "ID19803",
+  "IdentificacionProveedor": "222222222222",
+  "TotalArticulos": "6",
+  "Descuento": "4.898",
+  "Ahorro": "5.229",
+  "FormaPago": "CONTADO",
+  "Items": [
+    {
+      "Descripcion": "Gaseosa Kola",
+      "Precio": "1.650A",
+      "Cantidad": "1",
+      "PrecioUnitario": "2.200 V Ahorro 550",
+      "CodigoProducto": "849629"
+    },
+    {
+      "Descripcion": "",
+      "Precio": "2.797",
+      "Cantidad": "2",
+      "PrecioUnitario": "2.400 V. Ahorro",
+      "CodigoProducto": "2385/KGM"
+    },
+    {
+      "Descripcion": "Banano",
+      "Precio": "6.527",
+      "Cantidad": "1",
+      "PrecioUnitario": "2.400 V Ahorro",
+      "CodigoProducto": "1253"
+    },
+    {
+      "Descripcion": "Banano",
+      "Precio": "831",
+      "Cantidad": "3",
+      "PrecioUnitario": "2.400 V Ahorro",
+      "CodigoProducto": "1253"
+    },
+    {
+      "Descripcion": "IMPUESTO BOLSA P",
+      "Precio": "66",
+      "Cantidad": "4",
+      "PrecioUnitario": "66",
+      "CodigoProducto": "5798"
+    },
+    {
+      "Descripcion": "Bolsa Plastica E",
+      "Precio": "90A",
+      "Cantidad": "1",
+      "PrecioUnitario": "90",
+      "CodigoProducto": "3417520"
+    },
+    {
+      "Descripcion": "Chocolatina Alme",
+      "Precio": "4.575A",
+      "Cantidad": "1",
+      "PrecioUnitario": "4.575",
+      "CodigoProducto": "636033"
+    }
+  ]
+}
+
+{
+  "Nombre_del_fabricante": "BRASIER Y SOLO KUKOS",
+  "Identificación_fiscal": "890.921.157-9",
+  "Dirección_del_vendedor": "DEL BRASIER Y SOLO KUKOS\nMARROCAR SAS\n890.921.157-9\nNIT\nFERIA UNICO 5\n57 1 30 IC 1010 CC UNICO\n4001020",
+  "Número_de_contacto_del_fabricante": "4001020",
+  "URL_del_vendedor": "WWW.FERIADELBRASIER.COM.cO",
+  "Identificación_del_recibo_factura": "3046",
+  "ID_contribuyente_neto": "890921157",
+  "Subtotal_excluido": "70,000",
+  "Subtotal_gravado": "101.967",
+  "IVA_propios": "16.270",
+  "IVA_confecciones_intimas": "5.413",
+  "Total_factura": "171.967",
+  "Número_de_items_totales": "5",
+  "Descuento": "0",
+  "Impuesto_consumo": "66",
+  "Artículos": [
+    {
+      "Descripción": "BRASTER\nMAR110358\nPALO ROSA\nALT80008-MTRIC PANT",
+      "Precio": "59.900",
+      "Código_producto": "ALT80008-MTRIC"
+    },
+    {
+      "Descripción": "ALT80008-MTRIC PANT\nSURTIDO\nGAV430/4M12PANTY LAS",
+      "Precio": "42.000",
+      "Cantidad": "36\nUND"
+    },
+    {
+      "Descripción": "TARJETA REGTARJETA R",
+      "Precio": "70,000",
+      "Cantidad": "1 UND"
+    },
+    {
+      "Descripción": "BOLSA BOLSA",
+      "Precio": "67",
+      "Cantidad": "1 UND"
+    }
+  ]
+}
+
+{
+  "Dirección_del_Vendedor": "PRICESMART Colombia S.A.S.\nCalle 64N No. 5B--183\nMenga, Colombia",
+  "Nombre_del_Vendedor": "PRICESMART Colombia S.A.S.",
+  "NIT": "900319753-3",
+  "ID_de_Recibo": "005185",
+  "Monto_Pagado": "214,2 200",
+  "Subtotal": "214,200",
+  "Impuesto": "34,200",
+  "Total": "214,2 200",
+  "ID_Elementos_de_La_Línea": [
+    {
+      "Código_de_Producto": "469443",
+      "Descripción": "Camiseta",
+      "Precio": "29.700",
+      "Cantidad": "1"
+    },
+    {
+      "Código_de_Producto": "469443",
+      "Descripción": "Camiseta",
+      "Precio": "29,700",
+      "Cantidad": "1"
+    },
+    {
+      "Código_de_Producto": "469443",
+      "Descripción": "Camiseta",
+      "Precio": "29,700",
+      "Cantidad": "1"
+    },
+    {
+      "Código_de_Producto": "469443",
+      "Descripción": "Camiseta",
+      "Precio": "29,700",
+      "Cantidad": "1"
+    },
+    {
+      "Código_de_Producto": "478856",
+      "Descripción": "camiseta",
+      "Precio": "47.700",
+      "Cantidad": "1"
+    },
+    {
+      "Código_de_Producto": "478856",
+      "Descripción": "camiseta",
+      "Precio": "47,700",
+      "Cantidad": "1"
+    }
+  ]
+}
